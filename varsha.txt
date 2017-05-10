@@ -1,2 +1,15 @@
+<<<<<<< HEAD
  hello this is varsha.
  This file edited by Ganga.
+=======
+<<<<<<< HEAD
+ hello this is varsha
+hello this is priyanka
+=======
+
+
+ hello this is varsha
+ 
+ blaahhh....blaahhh.... ;) :D vijay
+>>>>>>> f856fca746c7581e3031d72537808324b279472c
+>>>>>>> c1fe24576ccd5f56800128b53cf9b72320a9f161

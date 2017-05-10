@@ -1,2 +1,8 @@
 Hello Gangasagar..
+<<<<<<< HEAD
 This is second line ..
+=======
+oye ganga 
+
+hello Ganga this is disha
+>>>>>>> c1fe24576ccd5f56800128b53cf9b72320a9f161

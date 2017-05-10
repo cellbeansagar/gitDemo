@@ -1,2 +1,7 @@
 Hello, This is romil file. I have created it for demo purpose.
+<<<<<<< HEAD
 This file edited by Ganga.
+=======
+Pranit edited your file
+blaahhh....blaahhh.... ;) :D vijay
+>>>>>>> c1fe24576ccd5f56800128b53cf9b72320a9f161

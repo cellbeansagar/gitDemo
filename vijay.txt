@@ -1,2 +1,7 @@
 Hello vijay here,,,
+<<<<<<< HEAD
 This file edited by Ganga.
+=======
+
+Vijay commiting code test 2nd
+>>>>>>> c1fe24576ccd5f56800128b53cf9b72320a9f161
