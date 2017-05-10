@@ -1,2 +1,40 @@
 Hello
+<<<<<<< HEAD
+
+
+
+
+hello here swapnali
+
+
+
+
+hello priyanka this is karan, how are you ?
+=======
 Added by varsha 
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+
+Hi Priyanka this is disha.
+=======
+blaahhh....blaahhh.... ;) :D vijay
+>>>>>>> 60d1c9025c6eab7056cccd4704c4c2a15586bce0
+
+
+=======
+blaahhh....blaahhh.... ;) :D vijay
+
+hello piyu
+<<<<<<< HEAD
+>>>>>>> 388ba6b9e4d03013e2305fbefc89f8c485758461
+=======
+>>>>>>> f856fca746c7581e3031d72537808324b279472c
+
+hello priynka 
+
+
+file unable to merge.
+>>>>>>> d02bb384e2a65191f62ba971599e36858ee5416e
+
+This file edited by Ganga.

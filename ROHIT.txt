@@ -1,1 +1,21 @@
+<<<<<<< HEAD
 Hello, This is ROHIT file. I have created it for demo purpose. Bla Bla
+=======
+Hello, This is ROHIT file. I have created it for demo purpose.
+
+<<<<<<< HEAD
+
+
+
+
+
+
+
+
+hello rohit this is karan, how are you ?
+=======
+blaahhh....blaahhh.... ;) :D vijay
+>>>>>>> 388ba6b9e4d03013e2305fbefc89f8c485758461
+
+This file edited by Ganga.
+>>>>>>> 539cb8820b74be000b348c25d9693812baa92b13
