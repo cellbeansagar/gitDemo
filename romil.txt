@@ -9,14 +9,63 @@ Hello, This is romil file. I have created it for demo purpose.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 hello romil this is karan, how are you ?
 =======
 Pranit edited your file
 blaahhh....blaahhh.... ;) :D vijay
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 388ba6b9e4d03013e2305fbefc89f8c485758461
+=======
+hello this is added by varsha 
+>>>>>>> b50e1c5e08da7bde3d38407e09086f7e92e2f213
 =======
 
 
 hello romill////
+<<<<<<< HEAD
 >>>>>>> d02bb384e2a65191f62ba971599e36858ee5416e
+=======
+>>>>>>> e63015b835b57c1efd8ddbd32e76ceeb232fa9e1
+>>>>>>> b50e1c5e08da7bde3d38407e09086f7e92e2f213

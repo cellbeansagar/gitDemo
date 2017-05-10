@@ -12,6 +12,34 @@ Hello This is Amol.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 hello amol this is karan, how are you ?
 =======
 blaahhh....blaahhh.... ;) :D vijay
@@ -20,4 +48,8 @@ blaahhh....blaahhh.... ;) :D vijay
 blaahhh....blaahhh.... ;) :D vijay
 
 Hello Amol this is disha
+<<<<<<< HEAD
 >>>>>>> d02bb384e2a65191f62ba971599e36858ee5416e
+=======
+hello this is added by varsha 
+>>>>>>> b50e1c5e08da7bde3d38407e09086f7e92e2f213
