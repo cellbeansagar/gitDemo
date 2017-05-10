@@ -1,5 +1,8 @@
 Hello Gangasagar..
 <<<<<<< HEAD
+<<<<<<< HEAD
+This is second line ..
+=======
 
 
 
@@ -38,6 +41,7 @@ how r u???
 
 
 hello ganga this is karan, how are you ?
+>>>>>>> c7ec211fbd4c310bfb03e5716ba881fa9f3fdc96
 =======
 oye ganga 
 <<<<<<< HEAD
@@ -47,7 +51,10 @@ hello this is added by varsha
 hello Ganga this is disha
 >>>>>>> c1fe24576ccd5f56800128b53cf9b72320a9f161
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 >>>>>>> d02bb384e2a65191f62ba971599e36858ee5416e
 =======
 hello this is added by varsha 
 >>>>>>> b50e1c5e08da7bde3d38407e09086f7e92e2f213
+>>>>>>> c7ec211fbd4c310bfb03e5716ba881fa9f3fdc96

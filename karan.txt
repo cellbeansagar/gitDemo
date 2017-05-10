@@ -1,6 +1,14 @@
 Hello, This is karan's file. I have created it for demo purpose.
+<<<<<<< HEAD
+
+=======
 
 blaahhh....blaahhh.... ;) :D vijay
 blaahhh....blaahhh.... ;) :D vijay
+<<<<<<< HEAD
+>>>>>>> c1fe24576ccd5f56800128b53cf9b72320a9f161
+=======
 
 Haaaiilooo this is Disa.
+>>>>>>> f3a20113392252d23477a08b2913ade939040bdc
+This file edited by Ganga.

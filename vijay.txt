@@ -1,5 +1,12 @@
 Hello vijay here,,,
+<<<<<<< HEAD
+This file edited by Ganga.
+=======
 
+<<<<<<< HEAD
+Vijay commiting code test 2nd
+>>>>>>> c1fe24576ccd5f56800128b53cf9b72320a9f161
+=======
 <<<<<<< HEAD
 <<<<<<< HEAD
 
@@ -28,3 +35,6 @@ Vijay commiting code test 2nd
 
 Helloooo this is Disa
 >>>>>>> d02bb384e2a65191f62ba971599e36858ee5416e
+>>>>>>> c7ec211fbd4c310bfb03e5716ba881fa9f3fdc96
+
+This file edited by Ganga.

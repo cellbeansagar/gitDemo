@@ -2,6 +2,10 @@ Hello This is Amol.
 <<<<<<< HEAD
 <<<<<<< HEAD
 
+=======
+<<<<<<< HEAD
+This file edited by Ganga.
+
 
 
 
@@ -44,12 +48,17 @@ hello amol this is karan, how are you ?
 =======
 blaahhh....blaahhh.... ;) :D vijay
 >>>>>>> 388ba6b9e4d03013e2305fbefc89f8c485758461
+>>>>>>> c7ec211fbd4c310bfb03e5716ba881fa9f3fdc96
 =======
 blaahhh....blaahhh.... ;) :D vijay
 
 Hello Amol this is disha
 <<<<<<< HEAD
+>>>>>>> c1fe24576ccd5f56800128b53cf9b72320a9f161
+=======
+<<<<<<< HEAD
 >>>>>>> d02bb384e2a65191f62ba971599e36858ee5416e
 =======
 hello this is added by varsha 
 >>>>>>> b50e1c5e08da7bde3d38407e09086f7e92e2f213
+>>>>>>> c7ec211fbd4c310bfb03e5716ba881fa9f3fdc96
