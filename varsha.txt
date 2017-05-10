@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  hello this is varsha
 
 
@@ -10,3 +11,15 @@
 
  
  hello varsha this is karan, how are you ?
+=======
+<<<<<<< HEAD
+ hello this is varsha
+hello this is priyanka
+=======
+
+
+ hello this is varsha
+ 
+ blaahhh....blaahhh.... ;) :D vijay
+>>>>>>> f856fca746c7581e3031d72537808324b279472c
+>>>>>>> 388ba6b9e4d03013e2305fbefc89f8c485758461

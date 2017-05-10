@@ -1,4 +1,5 @@
 Hello This is Amol.
+<<<<<<< HEAD
 
 
 
@@ -8,3 +9,6 @@ Hello This is Amol.
 
 
 hello amol this is karan, how are you ?
+=======
+blaahhh....blaahhh.... ;) :D vijay
+>>>>>>> 388ba6b9e4d03013e2305fbefc89f8c485758461

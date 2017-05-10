@@ -1,4 +1,5 @@
 Hello, This is romil file. I have created it for demo purpose.
+<<<<<<< HEAD
 
 
 
@@ -9,3 +10,7 @@ Hello, This is romil file. I have created it for demo purpose.
 
 
 hello romil this is karan, how are you ?
+=======
+Pranit edited your file
+blaahhh....blaahhh.... ;) :D vijay
+>>>>>>> 388ba6b9e4d03013e2305fbefc89f8c485758461

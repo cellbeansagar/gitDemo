@@ -1,5 +1,10 @@
 Hello vijay here,,,
 
+<<<<<<< HEAD
+
+
+
+
 
 
 
@@ -14,3 +19,6 @@ Hello vijay here,,,
 
 
 hello vijay this is karan, how are you ?
+=======
+Vijay commiting code test 2nd
+>>>>>>> 388ba6b9e4d03013e2305fbefc89f8c485758461
