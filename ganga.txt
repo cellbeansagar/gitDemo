@@ -1,4 +1,53 @@
 Hello Gangasagar..
+<<<<<<< HEAD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hello ganga this is karan, how are you ?
+=======
 oye ganga 
+<<<<<<< HEAD
+hello this is added by varsha
+=======
 
 hello Ganga this is disha
+>>>>>>> c1fe24576ccd5f56800128b53cf9b72320a9f161
+<<<<<<< HEAD
+>>>>>>> d02bb384e2a65191f62ba971599e36858ee5416e
+=======
+hello this is added by varsha 
+>>>>>>> b50e1c5e08da7bde3d38407e09086f7e92e2f213
