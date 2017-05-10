@@ -1,2 +1,0 @@
-# gitDemo
-Training For employees
